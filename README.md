@@ -37,6 +37,6 @@ THEN I can save my initials and my score
 https://ijordan4.github.io/JavaScript-Quiz/
 
 ## Repository
-
+https://github.com/Ijordan4/JavaScript-Quiz
 
 
