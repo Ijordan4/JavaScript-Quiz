@@ -39,4 +39,7 @@ https://ijordan4.github.io/JavaScript-Quiz/
 ## Repository
 https://github.com/Ijordan4/JavaScript-Quiz
 
+![Screenshot (61)](https://github.com/Ijordan4/JavaScript-Quiz/assets/124106922/298c6128-7617-48a9-87d3-13e418bc285f)
+![Screenshot (60)](https://github.com/Ijordan4/JavaScript-Quiz/assets/124106922/4c9713d3-4e90-4e6b-bc6c-26c8a3a4c803)
+
 
